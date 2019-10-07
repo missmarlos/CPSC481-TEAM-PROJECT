@@ -7,7 +7,7 @@ Working on Code:
 
 Finished Code:
 * Make a pull request
-* One person will have to do a code review before merging it to master
+* One person will have to do a code review before it can be merged onto master
 
 
 ## GENERAL PROJECT INFORMATION ##
