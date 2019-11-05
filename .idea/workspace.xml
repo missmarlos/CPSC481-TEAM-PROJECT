@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da1a8ce1-a586-441a-8767-31f86f7ce59f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Deliverables 2 Report" beforeDir="false" afterPath="$PROJECT_DIR$/Deliverables 2 Report" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deliverables 2 Report">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Deliverables 2 Report" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CPSC481-TEAM-PROJECT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPSC481-TEAM-PROJECT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPSC481-TEAM-PROJECT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPSC481-TEAM-PROJECT" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../repo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da1a8ce1-a586-441a-8767-31f86f7ce59f" name="Default Changelist" comment="" />
+      <created>1570469257703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570469257703</updated>
+      <workItem from="1570469261744" duration="10992000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Deliverables 2 Report">
+      <created>1570469823164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570469823164</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Deliverables 2 Report">
+      <created>1570470440501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570470440502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Deliverables 2 Report">
+      <created>1570470695831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570470695831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added descriptions for each section to be included in the report">
+      <created>1570470741576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570470741576</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Started working on Project Description">
+      <created>1570471150709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570471150709</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added More">
+      <created>1570471288664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570471288664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;Added more onto Project Description">
+      <created>1570471872789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570471872789</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished Draft of Project Description">
+      <created>1570472988744</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570472988745</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10;Started working on Stakeholders section">
+      <created>1570473063523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570473063523</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added more into Stakeholders">
+      <created>1570473847107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570473847107</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added info on &quot;Future dog owners&quot; on Stakeholders">
+      <created>1570475573645</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570475573650</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added info in Stakeholders about Calgary Community, influencers,dog enthusiasts">
+      <created>1570476219586</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570476219586</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Removed rough Stakeholder section on rough draft">
+      <created>1570476343512</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570476343512</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finished Stakeholder section.&#10;Started Research Method section">
+      <created>1570476536864</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570476536864</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added Matt's summary to Research Methods section">
+      <created>1570476891032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570476891032</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added Marela's secondary research explanations and jsutifications">
+      <created>1570477247778</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570477247778</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&#10;formatting of research good and bads">
+      <created>1570477831550</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570477831558</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Matt Extreme User Interview Summary">
+      <created>1570483891712</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1570483891712</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added Marela's Research Method Summary">
+      <created>1570484177321</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1570484177321</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added Matt and Marela's Reflection of their research methods">
+      <created>1570484475884</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1570484475884</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added Tasks 1 - 6 by Sophia and Daniel">
+      <created>1570485083649</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1570485083653</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added Tasks 1 - 6 by Sophia and Daniel">
+      <created>1570485099441</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1570485099441</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10992000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.041577823" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.100726895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.041577823" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="4" side_tool="true" visible="true" weight="0.100726895" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Deliverables 2 Report" />
+    <MESSAGE value="Added descriptions for each section to be included in the report" />
+    <MESSAGE value="Started working on Project Description" />
+    <MESSAGE value="Added More" />
+    <MESSAGE value="&#10;Added more onto Project Description" />
+    <MESSAGE value="Finished Draft of Project Description" />
+    <MESSAGE value="&#10;Started working on Stakeholders section" />
+    <MESSAGE value="Added more into Stakeholders" />
+    <MESSAGE value="Added info on &quot;Future dog owners&quot; on Stakeholders" />
+    <MESSAGE value="Added info in Stakeholders about Calgary Community, influencers,dog enthusiasts" />
+    <MESSAGE value="Removed rough Stakeholder section on rough draft" />
+    <MESSAGE value="Finished Stakeholder section.&#10;Started Research Method section" />
+    <MESSAGE value="Added Matt's summary to Research Methods section" />
+    <MESSAGE value="Added Marela's secondary research explanations and jsutifications" />
+    <MESSAGE value="&#10;formatting of research good and bads" />
+    <MESSAGE value="Added Matt Extreme User Interview Summary" />
+    <MESSAGE value="Added Marela's Research Method Summary" />
+    <MESSAGE value="Added Matt and Marela's Reflection of their research methods" />
+    <MESSAGE value="Added Tasks 1 - 6 by Sophia and Daniel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tasks 1 - 6 by Sophia and Daniel" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Deliverables 2 Report">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
